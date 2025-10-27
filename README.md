@@ -6,5 +6,5 @@ A repo for professional development week
 
 [Interns/Jobs](./interns%26jobs.md)
 
-[Interns/Jobs](./interestedareas.md)
+[Interested areas](./interestedareas.md)
 
