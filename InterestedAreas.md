@@ -8,7 +8,7 @@
         - Weakness
           - Unreal?
           - JavaScript, HTML, Java (Never touched)
-          - Physic mechanics
+          - Physics mechanics
           - Diffucly to get employed(VISA etc)
 
 
@@ -19,6 +19,7 @@
  
     - Nintendo
     - Sony
+    
  
 - Programming Specialization
     - AI, UI, Graphics, Vehicle mechanics
