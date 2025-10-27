@@ -18,8 +18,11 @@
     - No indie??
  
     - Nintendo
-    - Sony
+    - Sony/Playstation
     
  
 - Programming Specialization
-    - AI, UI, Graphics, Vehicle mechanics
+    - AI
+    - UI
+    - Graphics
+    - Vehicle mechanics
