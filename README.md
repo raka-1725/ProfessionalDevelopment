@@ -4,7 +4,7 @@ A repo for professional development week
 
 ## Table of contents
 
-[Interns/Jobs](./interns%26jobs.md)
+[Interns/Jobs](./Interns&Jobs.md)
 
-[Interested areas](./interestedareas.md)
+[Interested areas](./InterestedAreas.md)
 
