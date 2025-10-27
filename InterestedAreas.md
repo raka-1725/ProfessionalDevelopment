@@ -12,27 +12,27 @@
           - Diffucly to get employed(VISA etc)
 
 
-- Studio Types
-    - AAA
-    - Small to medium size studio
-    - No indie??
-
- - Japan
-    - Nintendo
-    - Sony/Playstation
-    - Bandai Namco
-    - Campcon
- - USA/Overseas
-    - Ubi
-    - Activision
-    - XBOX
-    - Rockstar
-    - EA
+    - Studio Types
+        - AAA
+        - Small to medium size studio
+        - No indie??
     
-    
- 
-- Programming Specialization
-    - AI
-    - UI
-    - Graphics
-    - Vehicle mechanics
+     - Japan
+        - Nintendo
+        - Sony/Playstation
+        - Bandai Namco
+        - Campcon
+     - USA/Overseas
+        - Ubi
+        - Activision
+        - XBOX
+        - Rockstar
+        - EA
+        
+        
+     
+    - Programming Specialization
+        - AI
+        - UI
+        - Graphics
+        - Vehicle mechanics
