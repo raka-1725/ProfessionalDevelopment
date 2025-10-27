@@ -21,3 +21,18 @@
   - Python fluency with knowledge of libraries
 - Work on more
   - SQL
+    
+[Intern - Software Engineer](https://careers.nintendo.com/job-openings/listing/25000000EN.html?src=JB-10460)
+- Good Fit
+  - C++
+  - Python / AI
+- Work on more
+  - Visa sponsorship
+    
+[Graphics Tools Programmer ](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5565864004?gh_src=sgp49gfz4us)
+- Good Fit
+  - Degree, C++
+  - Python / AI
+  - Exposure to DCC 
+- Work on more
+  - Visa sponsorship
