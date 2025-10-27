@@ -16,9 +16,19 @@
     - AAA
     - Small to medium size studio
     - No indie??
- 
+
+ - Japan
     - Nintendo
     - Sony/Playstation
+    - Bandai Namco
+    - Campcon
+ - USA/Overseas
+    - Ubi
+    - Activision
+    - XBOX
+    - Rockstar
+    - EA
+    
     
  
 - Programming Specialization
