@@ -4,7 +4,7 @@
             - Unity
             - C#, C++, Python
             - UI
-            - Bilingual(English, Japanese)
+            - Trilingual(English, Japanese, Elementary German)
         - Weakness
           - Unreal?
           - JavaScript, HTML, Java (Never touched)
