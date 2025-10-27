@@ -12,6 +12,8 @@
 
 - Studio Types
     - AAA
+    - Small to medium size studio
+    - No indie??
  
 - Programming Specialization
     - AI, UI, Graphics, Vehicle mechanics
