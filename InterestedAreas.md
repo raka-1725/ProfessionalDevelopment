@@ -21,7 +21,7 @@
         - Nintendo
         - Sony/Playstation
         - Bandai Namco
-        - Campcon
+        - Capcom
      - USA/Overseas
         - Ubi
         - Activision
