@@ -56,3 +56,11 @@
   - Exposure to DCC 
 - Work on more
   - Visa sponsorship
+ 
+[Game AI Programmer](https://www.polyphony.co.jp/recruit/jobs/1430/)
+-  Good Fit
+  - C#, C++, Python
+  - Machine Learning
+  - Lanugage(Eng/Jpn)
+- Work on more
+  - More experience
